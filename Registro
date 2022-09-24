@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>    
+      <head>
+         </head> 
+         <meta charset="utf-8"> 
+          <body>
+            <main>      
+               <header>
+                   <h1>REGISTRATE</h1>
+                   <h2>Es rápido y fácil!</h2>         
+               </header>
+               <section>
+                 <form action = " ">
+                 <label for = "nombre"> Nombre </label>
+                 <input type ="text" name = "nombre" placeholder = "Introduce tu nombre" required>
+                 <br> 
+                 <br> 
+                 <label for = "apellido"> Apellido </label>
+                 <input type ="text" name = "apellido" placeholder = "Introduce tu apellido" required>
+                 <br>
+                 <br>  
+                 <label for = "Número de celular"> Télefono </label>
+                 <input type ="text" name = "Núm de tel" placeholder = "Introduce tu número de celular" required> 
+                 <br>  
+                 <br>  
+                 <label for = "Password"> Password </label>
+                 <input type ="Password" name = "Password" placeholder = "Introduce tu Contraseña" required>
+                 <br>  
+                 <br> 
+                 <label for = "gen" > Género: </label>
+                 <input type= "radio" name="gen" value="Mujer"> Mujer
+                 <input type= "radio" name="gen" value="Hombre"> Hombre
+                 <br>  
+                 <br> 
+                 <input type="checkbox" name="check" required>
+                 <label for="check"> Acepto los <a href=" "> términos y ...</a></check>
+                 <br>  
+                 <br> 
+                 <input type ="submit" value="Entrar"> 
+              
+                 
+    </form>
+    <br> 
+    <a href="Ejercicio7" > ¿Olvidaste la Contraseña? </a>
+    <p> Si ya estas registrado <a href="Login"> Inicia Sesión </a> </p>
+    <br> 
+   </section>
+  </main>
+ </body>
