@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>    
+      <head>
+          <body>
+            <main>      
+               <header>
+                   <h1> style="color: purple"> Título </h1>
+               </head> 
+               </header>
+               <section>
+                 <form action = " ">
+                 <label for = "usuario"> Usuario </label>
+                 <input type ="text" name = "usuario"> 
+
+
+    </form>
+   </section>
+  </main>
+ </body>
