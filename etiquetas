@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>    
+      <head>
+          <body>
+            <main>      
+               <header>
+                   <h1>Título</h1>
+               </head> 
+               </header>
+               <nav>
+                 <ul>
+                    <li>Elemento</li>
+                    <li>Elemento</li>
+                    <li>Elemento</li>
+                  </ul> 
+                  </nav> 
+
+
+   </main>
+  </body>
+
+ </html>
